@@ -5,6 +5,8 @@ I thought: how can I gather useful information about what are the most requested
 I have decided to take a step forward, and find out for myself: in this project I am collecting a number of job descriptions from a popular job board website, in order to find out what are the recurring key words in them, which ones correspond to acquirable skills, and how (and if) they correlate to details such as the job salary, contract type and others.
 It is an open ended project, as the information acquired depends on the moment and will change over time, and the analysis can be done on many different levels.
 
+I have written about this project on my [post](https://towardsdatascience.com/how-to-identify-the-most-requested-skills-on-the-data-science-job-market-with-data-science-726845ca9638) on Towards Data Science.
+
 ## Project description
 In this project I am scraping job ads contents from a popular job board to gather insights on the key skills listed and other factors. The project is structured as follows:
 
@@ -13,4 +15,5 @@ In this project I am scraping job ads contents from a popular job board to gathe
 
 ![wordcloud][wordcloud]
 
-[wordcloud]: https://github.com/RaffaToSpace/Job_ads_scraping_nlp/blob/master/data/wordcloud.png "Word Cloud"
+[wordcloud]: https://github.com/RaffaToSpace/Job_ads_scraping_nlp/blob/master/data/white_wordcloud4.png "Word Cloud"
+
