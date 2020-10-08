@@ -18,6 +18,8 @@ You can use the project's code by cloning it and making a local copy of it, open
 The saved job ads dataset can then be used in the _jobs_ads_nlp_ notebook. You can easily customize your analysis by selecting the key words you are most interested in, by including them in the _key_skills_ list of words. 
 All of the key-words based analysis is easily customisable.
 
+**OR** you could use Binder, by clicking on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaffaToSpace/Job_ads_scraping_nlp/master)
+
 ![wordcloud][wordcloud]
 
 [wordcloud]: https://github.com/RaffaToSpace/Job_ads_scraping_nlp/blob/master/data/white_wordcloud4.png "Word Cloud"
