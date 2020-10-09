@@ -20,6 +20,9 @@ All of the key-words based analysis is easily customisable.
 
 **OR** you could use Binder, by clicking on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaffaToSpace/Job_ads_scraping_nlp/master)
 
+## Project outcomes
+This is an open-ended project and the outcomes can be continuously updated. The first version of the analysis is described in my Medium [post](https://towardsdatascience.com/how-to-identify-the-most-requested-skills-on-the-data-science-job-market-with-data-science-726845ca9638), as specified earlier. Otherwise you can go check the results dashboard page, on which I am going to post my findings as they come.
+
 ![wordcloud][wordcloud]
 
 [wordcloud]: https://github.com/RaffaToSpace/Job_ads_scraping_nlp/blob/master/data/white_wordcloud4.png "Word Cloud"
